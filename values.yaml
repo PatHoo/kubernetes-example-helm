@@ -1,10 +1,10 @@
 frontend:
   image: quith/frontend
-  tag: 'f56b58f'
+  tag: '969af61'
   autoscaling:
     averageUtilization: 90
 backend:
   image: quith/backend
-  tag: 'f56b58f'
+  tag: '969af61'
   autoscaling:
     averageUtilization: 90
