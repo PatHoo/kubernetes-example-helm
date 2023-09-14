@@ -8,9 +8,3 @@ backend:
   tag: 'f56b58f'
   autoscaling:
     averageUtilization: 90
-database:
-  enabled: true
-  uri: pg-service
-  username: postgres
-  password: postgres
-  
